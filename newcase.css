@@ -1,0 +1,191 @@
+
+
+
+
+.main-text{
+    text-align: center;
+    font-size: x-large;
+}
+
+.imageclass1{
+    width: 300px;
+    margin: auto;
+}
+
+.imageclass1 img{
+    max-width: 100%;
+}
+
+
+.imageclass2{
+    width: 500px;
+    margin: auto;
+}
+
+.imageclass2 img{
+    max-width: 100%;
+}
+
+
+.imageclass3{
+    width: 300px;
+    margin: auto;
+}
+
+.imageclass3 img{
+    max-width: 100%;
+}
+
+
+.imageclass4{
+    width: 200px;
+    margin: auto;
+}
+
+.imageclass4 img{
+    max-width: 100%;
+}
+
+
+
+
+.button-div{
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  
+    
+}
+
+.btn{
+    margin: 10px;
+}
+
+
+.flex-container{
+    display: grid;
+    grid-template-columns: 40% 40%;
+    margin: 50px;
+    justify-content: space-evenly;
+}
+
+.flex1{
+    background-color: rgba(0, 0, 255, 0.199);
+    display: grid;
+    grid-template-columns: 40% 40%;
+    justify-content: space-evenly;
+    margin: 50px;
+}
+
+
+.container-specific{
+    padding-top: 50px;
+}
+
+
+
+.flex-specific{
+    display: inline;
+}
+
+
+
+.What-I-Did{
+    font-size: 2.5rem;
+}
+
+
+.understanding-the-user{
+   
+    font-size: x-large;
+    width: 1200px;
+    display: flex;
+    background-color: blue;
+}
+
+.container img{
+    width: 50px;
+}
+
+
+.userpersona{
+    width: 1000px;
+    margin: auto;
+}
+
+.userpersona img{
+    max-width: 100%;
+}
+
+
+.container-user{
+    background-color: #C9E2FF;
+    padding: 80px;
+}
+
+
+.container-image2{
+    width: 500px;
+    padding-top: 40px;
+    text-align: center;
+}
+
+
+.container-image2 img{
+    min-width: 100%;
+    padding-bottom: 70px;
+   
+}
+
+
+.container-users{
+    background-color: #E5E5E5;
+    padding: 80px;
+}
+
+
+.landingpage{
+    width: 600px;
+    margin: auto;
+    padding: 30px;
+    
+
+}
+
+.landingpage img{
+    max-width: 100%;
+}
+
+
+.container-white{
+    color: black;
+}
+
+
+.landingpage1{
+    background-color:#E5E5E5;
+    margin: 200px;
+}
+
+
+.landingpage1{
+    width: 1100px;
+    
+    padding-left: 200px;
+    padding-right: 200px;
+
+
+}
+
+.landingpage1 img{
+    max-width: 100%;
+}
+
+
+.section-idea{
+    background-color: #E5E5E5;
+    display: flex;
+    justify-content: center;
+    padding: 0;
+}
+
